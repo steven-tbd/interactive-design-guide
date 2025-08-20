@@ -1,0 +1,1 @@
+I welcome contributions to this guide! If you find a typo, have a suggestion for a new component, or want to add a project example, please feel free to open an issue to discuss it or submit a pull request with your proposed changes.
