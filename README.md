@@ -6,7 +6,7 @@ Whether you are a student, artist, or engineer, this guide aims to provide the v
 
 ---
 
-## ➡️ [**Read the Full Guide Here**](./GUIDE.md)
+## ➡️ [**Read the Full Guide Here**](./index.md)
 
 ---
 
