@@ -1,4 +1,4 @@
-# **Interactive System Design Guide**
+# **Interactive Design Guide**
 *Version 6.4 - 8/2025*
 
 ### Table of Contents
@@ -11,8 +11,6 @@
 ---
 
 ## **Part 1: System Fundamentals**
-
-Part 1 establishes the building blocks of interactive systems. It covers the hardware, software, and communication interfaces that form the system. These fundamentals define the vocabulary and components used throughout the rest of the guide.
 
 ### **1.1 Introduction**
 
