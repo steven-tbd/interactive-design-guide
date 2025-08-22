@@ -1,6 +1,6 @@
-# Interactive System Design Guide
+# Interactive Design Guide
 
-Welcome to the Interactive System Design Guide! This document provides a structured framework for designing and building robust interactive systems. It covers everything from fundamental hardware and software components to advanced architectural patterns and best practices for deployment.
+Welcome to the Interactive Design Guide! This document provides a structured framework for designing and building robust interactive systems. It covers everything from fundamental hardware and software components to advanced architectural patterns and best practices for deployment.
 
 Whether you are a student, artist, or engineer, this guide aims to provide the vocabulary and mental models needed to create complex, reliable, and scalable interactive projects.
 
